@@ -155,3 +155,11 @@ Through this project, I practiced:
 ## 📌 Project Purpose
 
 This project was created as a practical learning project to understand the process of taking a machine learning model from **training to API deployment and containerization**.
+
+
+## API Documentation Screenshot
+
+The FastAPI Swagger UI allows users to test the student performance prediction endpoint interactively.
+
+![Swagger UI showing the Student Performance Prediction API](swagger-screenshot.png)
+
